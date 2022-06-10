@@ -15,7 +15,4 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=MathiasReker&theme=merko&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/outsideris">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="42" width="150" alt="outsideris" />
-  </a>
 </div>
