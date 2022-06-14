@@ -18,8 +18,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MathiasReker&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasReker&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MathiasReker&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<details> <summary>🏆GitHub Trophies</summary>
+ 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MathiasReker&theme=gruvbox&no-bg=true&no-frame=true)
+</details>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MathiasReker&icon=0&color=0)](https://visitcount.itsvg.in)
