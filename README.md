@@ -20,7 +20,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <details> <summary>🏆GitHub Trophies</summary>
  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MathiasReker&theme=gruvbox&no-bg=true&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MathiasReker&theme=onedark&no-bg=true&no-frame=true)
 </details>
 
 ---
