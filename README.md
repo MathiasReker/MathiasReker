@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mathias
+# Hi 👋🏻, I'm Mathias
 Glad to see you here!
 
 I’m a full-stack web developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
