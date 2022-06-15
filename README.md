@@ -6,7 +6,7 @@ I’m a full-stack web developer who has turned years of freelancing into a full
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
 
 ## 💫About Me
-🌱 I’m currently learning NodeJS & Python   
+🌱 I’m currently learning Node.js & Python   
 💬 Ask me about Github Actions  
 ⚡ Fun fact: A few years ago, I was named a top contributor on one of the world’s largest CMS’
 
@@ -22,4 +22,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MathiasReker&theme=onedark&no-bg=true&no-frame=true&column=-1)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MathiasReker&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MathiasReker&icon=0&color=0)](https://visitcount.itsvg.in/analytics/MathiasReker)
