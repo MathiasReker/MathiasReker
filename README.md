@@ -13,6 +13,7 @@ yet robust systems, distributed yet synchronized and beautiful yet practical.
 🌱 I’m currently learning Node.js & Python  
 💬 Ask me about GitHub Actions  
 ⚡ Fun fact: A few years ago, I was named a top contributor to one of the world’s largest CMS’
+📫 How to reach me, hit the mail
 
 ## 💻Tech Stack
 
