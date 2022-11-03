@@ -6,7 +6,7 @@ I’m a full-stack web developer who has turned years of freelancing into a full
 to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing light
-yet robust systems, distributed yet synchronized and beautiful yet practical.
+yet robust systems, distributed yet synchronized and beautiful, but practical.
 
 ## 💫About Me
 
@@ -21,10 +21,11 @@ yet robust systems, distributed yet synchronized and beautiful yet practical.
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](#)
 [![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](#)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](#)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)](#)
+[![Bootstrap](  https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](#)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)](#)
 [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)](#)
+[![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat-square)](#)
 
 ### Backend
 
@@ -61,6 +62,7 @@ yet robust systems, distributed yet synchronized and beautiful yet practical.
 [![Laragon](https://img.shields.io/badge/Laragon-0E83CD?logo=laragon&logoColor=fff&style=flat-square)](#)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)](#)
 [![Platform.sh](https://img.shields.io/badge/Platform.sh-1A182A.svg?style=flat-square&logo=platformdotsh&logoColor=white)](#)
+[![Fastly Badge](https://img.shields.io/badge/Fastly-FF282D?logo=fastly&logoColor=fff&style=flat-square)](#)
 
 ### Services
 
@@ -100,8 +102,7 @@ yet robust systems, distributed yet synchronized and beautiful yet practical.
 ## 📊GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=MathiasReker&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](#)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MathiasReker&theme=dark&hide_border=true)](#)  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasReker&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)](#)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MathiasReker&theme=dark&hide_border=true)](#)
 
 ## 🏆GitHub Trophies
 
@@ -109,3 +110,7 @@ yet robust systems, distributed yet synchronized and beautiful yet practical.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MathiasReker&icon=0&color=0)](https://visitcount.itsvg.in/analytics/MathiasReker)
+
+I would greatly appreciate it if you would nominate me for the GitHub Star program.
+
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Nominate  @MathiasReker-100000?style=flat-square&logo=github&logoColor=000&labelColor=fff&color=E03A3A'/></a>
