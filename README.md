@@ -10,7 +10,7 @@ yet robust systems, distributed yet synchronized and beautiful, but practical.
 
 ## 💫About Me
 
-🌱 I’m currently learning Node.js & Python  
+🌱 I’m currently learning advanced Node.js  
 💬 Ask me about IT Security  
 ⚡ Fun fact: A few years ago, I was named a top contributor to one of the world’s largest CMS’  
 📫 How to reach me, hit the mail
