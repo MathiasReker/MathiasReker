@@ -104,7 +104,6 @@ yet robust systems, distributed yet synchronized and beautiful, but practical.
 
 ## 📊GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=MathiasReker&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](#)  
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MathiasReker&theme=dark&hide_border=true)](#)
 
 ## 🏆GitHub Trophies
