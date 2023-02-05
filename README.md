@@ -2,11 +2,7 @@
 
 Glad to see you here!
 
-I’m a full-stack web developer who has turned years of freelancing into a full-time career. Being a full-stack allows me
-to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing light
-yet robust systems, distributed yet synchronized and beautiful, but practical.
+As a full-stack web developer, I bring expertise in both back-end and front-end development to the table. With a strong focus on PHP and Node.js, I am able to develop dynamic and efficient web applications that deliver a seamless user experience. I have a passion for open source and am committed to sharing my knowledge with others in the tech community. I believe in the power of collaboration and am always seeking opportunities to work with others to create meaningful and impactful solutions. Whether working on a new project or contributing to an existing one, I am dedicated to delivering high-quality, reliable web applications that meet the needs of users and drive growth for businesses.
 
 ## 💫About Me
 
