@@ -2,7 +2,7 @@
 
 Glad to see you here!
 
-As a full-stack web developer, I bring expertise in both back-end and front-end development to the table. With a strong focus on PHP and Node.js, I am able to develop dynamic and efficient web applications that deliver a seamless user experience. I have a passion for open source and am committed to sharing my knowledge with others in the tech community. I believe in the power of collaboration and am always seeking opportunities to work with others to create meaningful and impactful solutions. Whether working on a new project or contributing to an existing one, I am dedicated to delivering high-quality, reliable web applications that meet the needs of users and drive growth for businesses.
+As a full-stack web developer, I bring expertise in both back-end and front-end development to the table. With a strong focus on PHP (Symfony), Node.js (Express) and JavaScript (Svelte), I am able to develop dynamic and efficient web applications that deliver a seamless user experience. I have a passion for open source and I am committed to sharing my knowledge with others in the tech community. I believe in the power of collaboration and am always seeking opportunities to work with others to create meaningful and impactful solutions. Whether working on a new project or contributing to an existing one, I am dedicated to delivering high-quality, reliable web applications that meet the needs of users and drive growth for businesses.
 
 ## 💫About Me
 
