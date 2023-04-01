@@ -1,15 +1,27 @@
-# Hi 👋🏻, I'm Mathias
+# Greetings! 👋🏻 My name is Mathias,
 
-Glad to see you here!
+Greetings and welcome to my GitHub profile! My name is Mathias, and I am a full-stack web developer with a wealth of
+experience in PHP (Symfony), NodeJS (Express), Java (Spring), various frontend frameworks such as Svelte, DevSecOps and
+IT security.
 
-As a full-stack web developer, I bring expertise in both back-end and front-end development to the table. With a strong focus on PHP (Symfony), Node.js (Express) and JavaScript (Svelte), I am able to develop dynamic and efficient web applications that deliver a seamless user experience. I have a passion for open source and I am committed to sharing my knowledge with others in the tech community. I believe in the power of collaboration and am always seeking opportunities to work with others to create meaningful and impactful solutions. Whether working on a new project or contributing to an existing one, I am dedicated to delivering high-quality, reliable web applications that meet the needs of users and drive growth for businesses.
+I have a deep passion for developing innovative software solutions that meet the needs of users. My expertise in
+DevSecOps allows me to create secure and reliable software that can withstand the most demanding environments, while my
+experience in IT security helps me identify and mitigate potential risks to ensure the safety of all users.
+
+As a committed member of the open-source community, I believe that GitHub is the perfect platform for sharing my
+projects and collaborating with other developers. I am always looking for new opportunities to learn and grow, and I am
+open to working with others who share my passion for excellence and innovation.
+
+Thank you for taking the time to visit my profile. Please feel free to explore my projects and reach out to me if you
+have any questions or if you are interested in collaborating on a project.
 
 ## 💫About Me
 
-🌱 I’m currently learning advanced Node.js  
-💬 Ask me about IT Security  
-⚡ Fun fact: A few years ago, I was named a top contributor to one of the world’s largest CMS’  
-📫 How to reach me, hit the mail
+🌱 Currently, I am pursuing knowledge and expertise in the field of NFC technology.  
+💬 Do not hesitate to ask me about IT Security-related topics.  
+⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
+Content Management Systems (CMS) a few years ago.  
+📫 Feel free to contact me via email for any inquiries or discussions.
 
 ## 💻Tech Stack
 
@@ -17,7 +29,7 @@ As a full-stack web developer, I bring expertise in both back-end and front-end 
 
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&style=flat&logoColor=fff)](#)
 [![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
-[![Bootstrap](  https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat&logoColor=fff)](#)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)](#)
@@ -109,6 +121,6 @@ As a full-stack web developer, I bring expertise in both back-end and front-end 
 ---
 [![](https://visitcount.itsvg.in/api?id=MathiasReker&icon=0&color=0)](https://visitcount.itsvg.in/)
 
-I would greatly appreciate it if you would nominate me for the GitHub Star program.
+I would be honored if you would consider nominating me for the GitHub Star program.
 
 <a href='https://stars.github.com/nominate/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Nominate  @MathiasReker-100000?style=flat&logo=github&logoColor=000&labelColor=fff&color=E03A3A'/></a>
