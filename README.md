@@ -1,4 +1,4 @@
-# Greetings! 👋🏻 My name is Mathias,
+# Greetings! 👋🏻
 
 Greetings and welcome to my GitHub profile! My name is Mathias, and I am a full-stack web developer with a wealth of
 experience in PHP (Symfony), NodeJS (Express), Java (Spring), various frontend frameworks such as Svelte, DevSecOps and
@@ -27,14 +27,15 @@ Content Management Systems (CMS) a few years ago.
 
 ### Frontend
 
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&style=flat&logoColor=fff)](#)
-[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat&logoColor=fff)](#)
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&style=flat&logoColor=fff)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)](#)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](#)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)](#)
-[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)](#)
 
 ### Backend
 
@@ -42,11 +43,21 @@ Content Management Systems (CMS) a few years ago.
 [![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)](#)
 [![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=Hibernate&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](#)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
+[![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](#)
+
+### Package managers
+
+[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)](#)
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat)](#)
+[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)](#)
+[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=flat)](#)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=flat)](#)
 
 ### Data
 
