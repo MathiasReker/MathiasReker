@@ -92,6 +92,7 @@ Content Management Systems (CMS) a few years ago.
 
 ### OS
 
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=flat)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
 [![Kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=Kali-Linux&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](#)
