@@ -21,9 +21,11 @@ have any questions or if you are interested in collaborating on a project.
 💬 Do not hesitate to ask me about IT Security-related topics.  
 ⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
 Content Management Systems (CMS) a few years ago.  
-📫 Feel free to contact me via email for any inquiries or discussions.
+📫 Feel free to contact me via email for any inquiries or discussions.  
+💻 NixOS  
+🐚 fish shell  
 
-## 💻Tech Stack
+## 🔋Tech Stack
 
 ### Frontend
 
