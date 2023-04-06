@@ -22,8 +22,9 @@ have any questions or if you are interested in collaborating on a project.
 ⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
 Content Management Systems (CMS) a few years ago.  
 📫 Feel free to contact me via email for any inquiries or discussions.  
-💻 NixOS  
-🐚 fish shell  
+💻 I prefer **NixOS** due to its declarative configuration, atomic upgrades and rollbacks, and functional package
+management.  
+🐚 I prefer using the **Fish shell** due to its intuitive and user-friendly CLI.
 
 ## 🔋Tech Stack
 
