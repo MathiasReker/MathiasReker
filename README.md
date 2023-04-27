@@ -1,7 +1,7 @@
 # Greetings! 👋🏻
 
 Greetings and welcome to my GitHub profile! My name is Mathias, and I am a full-stack web developer with a wealth of
-experience in PHP (Symfony), NodeJS (Express), Java (Spring), various frontend frameworks such as Svelte, DevSecOps and
+experience in PHP (Symfony), NodeJS (Express), Java (Spring), various frontend frameworks such as Svelte/SvelteKit, DevSecOps and
 IT security.
 
 I have a deep passion for developing innovative software solutions that meet the needs of users. My expertise in
