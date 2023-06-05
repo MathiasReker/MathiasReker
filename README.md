@@ -4,10 +4,6 @@ Greetings and welcome to my GitHub profile! My name is Mathias, and I am a full-
 experience in PHP (Symfony), NodeJS (Express), Java (Spring), various template engines, frontend frameworks such as Svelte/SvelteKit, DevSecOps and
 IT security.
 
-I have a deep passion for developing innovative software solutions that meet the needs of users. My expertise in
-DevSecOps allows me to create secure and reliable software that can withstand the most demanding environments, while my
-experience in IT security helps me identify and mitigate potential risks to ensure the safety of all users.
-
 As a committed member of the open-source community, I believe that GitHub is the perfect platform for sharing my
 projects and collaborating with other developers. I am always looking for new opportunities to learn and grow, and I am
 open to working with others who share my passion for excellence and innovation.
