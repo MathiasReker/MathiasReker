@@ -1,7 +1,8 @@
 # Greetings! 👋🏻
 
 Greetings and welcome to my GitHub profile! My name is Mathias, and I am a full-stack web developer with a wealth of
-experience in PHP (Symfony), NodeJS (Express), Java (Spring), various template engines, frontend frameworks such as Svelte/SvelteKit, DevSecOps and
+experience in PHP (Symfony), NodeJS (Express), Java (Spring), various template engines, frontend frameworks such as
+Svelte/SvelteKit, DevSecOps and
 IT security.
 
 As a committed member of the open-source community, I believe that GitHub is the perfect platform for sharing my
@@ -79,6 +80,7 @@ management.
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)](#)
 [![Platform.sh](https://img.shields.io/badge/Platform.sh-1A182A.svg?style=flat&logo=platformdotsh&logoColor=white)](#)
 [![Fastly](https://img.shields.io/badge/Fastly-FF282D?logo=fastly&style=flat&logoColor=fff)](#)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=fff)](#)
 
 ### Services
 
