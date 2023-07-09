@@ -5,6 +5,11 @@ experience in PHP (Symfony), NodeJS (Express), Java (Spring), various template e
 Svelte/SvelteKit, DevSecOps and
 IT security.
 
+I am a proficient software engineer with expertise in designing RESTful APIs adhering to best practices. My strong
+background in architecture enables me to develop scalable software solutions. With a keen eye for detail and a passion
+for clean code, I strive to deliver high-quality, maintainable systems. I am adept at leveraging modern technologies and
+frameworks to build robust and efficient applications.
+
 As a committed member of the open-source community, I believe that GitHub is the perfect platform for sharing my
 projects and collaborating with other developers. I am always looking for new opportunities to learn and grow, and I am
 open to working with others who share my passion for excellence and innovation.
