@@ -19,7 +19,7 @@ have any questions or if you are interested in collaborating on a project.
 
 ## 💫About Me
 
-🌱 Currently, I am pursuing knowledge and expertise in the field of NFC technology.  
+🌱 I am currently focused on advancing my skills in React, specifically targeting advanced concepts and techniques.
 💬 Do not hesitate to ask me about IT Security-related topics.  
 ⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
 Content Management Systems (CMS) a few years ago.  
