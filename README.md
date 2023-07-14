@@ -19,7 +19,7 @@ have any questions or if you are interested in collaborating on a project.
 
 ## 💫About Me
 
-🌱 I am currently focused on advancing my skills in React, specifically targeting advanced concepts and techniques.
+🌱 I am currently focused on advancing my skills in React, specifically targeting advanced concepts and techniques.  
 💬 Do not hesitate to ask me about IT Security-related topics.  
 ⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
 Content Management Systems (CMS) a few years ago.  
@@ -41,6 +41,7 @@ management.
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](#)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)](#)
+[![React](https://img.shields.io/badge/react%20os-0088CC?style=flat&logo=reactos&logoColor=white)](#)
 
 ### Backend
 
