@@ -18,7 +18,7 @@ have any questions or if you are interested in collaborating on a project.
 
 ## 💫 About Me
 
-🌱 I am currently focused on advancing my skills in Node.js and PHP.  
+🌱 I'm currently sharpening my PHP skills, with a focus on Symfony.  
 💬 Do not hesitate to ask me about IT security-related topics.  
 ⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
 Content Management Systems (CMS) a few years ago.  
@@ -26,7 +26,8 @@ Content Management Systems (CMS) a few years ago.
 💻 I prefer **NixOS** due to its declarative configuration, atomic upgrades and rollbacks, and functional package
 management.  
 🐚 I prefer using the **Fish shell** due to its intuitive and user-friendly CLI.  
-🏡 Additionally, I have a strong passion for automating tasks, and I particularly enjoy leveraging Home Assistant to streamline and enhance various aspects of my daily life.
+🏡 I have a strong passion for automating tasks, and I particularly enjoy leveraging Home Assistant to streamline and enhance various aspects of my daily life.
+📖 Currently reading "The Pragmatic Programmer" by David Thomas and Andrew Hunt.
 
 ## 🔋Tech Stack
 
