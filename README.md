@@ -26,7 +26,7 @@ Content Management Systems (CMS) a few years ago.
 💻 I prefer **NixOS** due to its declarative configuration, atomic upgrades and rollbacks, and functional package
 management.  
 🐚 I prefer using the **Fish shell** due to its intuitive and user-friendly CLI.  
-🏡 I have a strong passion for automating tasks, and I particularly enjoy leveraging Home Assistant to streamline and enhance various aspects of my daily life.
+🏡 I have a strong passion for automating tasks, and I particularly enjoy leveraging Home Assistant to streamline and enhance various aspects of my daily life.  
 📖 Currently reading "The Pragmatic Programmer" by David Thomas and Andrew Hunt.
 
 ## 🔋Tech Stack
