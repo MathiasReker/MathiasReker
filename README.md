@@ -1,32 +1,22 @@
 # Greetings! 👋🏻
 
-Greetings and welcome to my GitHub profile! My name is Mathias, and I am a full-stack web developer with a wealth of
-experience in PHP (Symfony), NodeJS (Express), Java (Spring), various template engines, frontend frameworks such as
-Svelte/SvelteKit, DevSecOps, and IT security.
+Greetings and welcome to my GitHub profile! I'm Mathias, a full-stack web developer with extensive experience in PHP (Symfony), NodeJS (Express), Java (Spring), various template engines, frontend frameworks such as Svelte/SvelteKit, DevSecOps, and IT security.
 
-I have expertise in designing web applications adhering to best practices. My strong background in architecture enables
-me to develop scalable software solutions. With a keen eye for detail and a passion for clean code, I strive to deliver
-high-quality, maintainable systems. I am adept at leveraging modern technologies and frameworks to build robust and
-efficient applications.
+I'm passionate about crafting high-quality, scalable software solutions that adhere to best practices. With a keen eye for detail and a dedication to clean code, I strive to deliver maintainable systems that exceed expectations.
 
-As a committed member of the open-source community, I believe that GitHub is the perfect platform for sharing my
-projects and collaborating with other developers. I am always looking for new opportunities to learn and grow, and I am
-open to working with others who share my passion for excellence and innovation.
+As a committed member of the open-source community, I believe in the power of collaboration and continuous learning. I'm always eager to connect with fellow developers to exchange ideas, tackle challenges, and push the boundaries of what's possible.
 
-Thank you for taking the time to visit my profile. Please feel free to explore my projects and reach out to me if you
-have any questions or if you are interested in collaborating on a project.
+Thank you for visiting my profile. Feel free to explore my projects and reach out to me if you have any questions or if you're interested in collaborating on a project.
 
 ## 💫 About Me
 
-🌱 I'm currently sharpening my PHP skills, with a focus on Symfony.  
-💬 Do not hesitate to ask me about IT security-related topics.  
-⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
-Content Management Systems (CMS) a few years ago.  
+🌱 Currently sharpening my PHP skills, with a focus on Symfony.  
+💬 Don't hesitate to ask me about IT security-related topics.  
+⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest Content Management Systems (CMS) in 2018.  
 📫 Feel free to contact me via email for any inquiries or discussions.  
-💻 I prefer **NixOS** due to its declarative configuration, atomic upgrades and rollbacks, and functional package
-management.  
-🐚 I prefer using the **Fish shell** due to its intuitive and user-friendly CLI.  
-🏡 I have a strong passion for automating tasks, and I particularly enjoy leveraging Home Assistant to streamline and enhance various aspects of my daily life.  
+💻 Prefer **NixOS** due to its declarative configuration, atomic upgrades and rollbacks, and functional package management.  
+🐚 Prefer using the **Fish shell** due to its intuitive and user-friendly CLI.  
+🏡 Have a strong passion for automating tasks and particularly enjoy leveraging Home Assistant to streamline and enhance various aspects of my daily life.  
 📖 Currently reading "The Pragmatic Programmer" by David Thomas and Andrew Hunt.
 
 ## 🔋Tech Stack
@@ -71,11 +61,11 @@ management.
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)](#)
 
 ### Infrastructure
 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=Kubernetes&logoColor=white&style=flat)](#)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white&style=flat)](#)
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white&style=flat)](#)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=azure-devops&logoColor=white&style=flat)](#)
