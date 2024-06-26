@@ -129,7 +129,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MathiasReker&theme=onedark&no-bg=true&no-frame=true&column=-1)](#)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MathiasReker&color=0&icon=0)](https://visitcount.itsvg.in/)
+[![](https://visitcount.itsvg.in/api?id=MathiasReker&color=0&icon=0)](https://visitcount.itsvg.in/analytics/MathiasReker)
 
 I would be honored if you would consider nominating me for the GitHub Star program.
 
