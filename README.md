@@ -10,7 +10,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 
 ## 💫 About Me
 
-🌱 Currently learning Kubernetes.  
+🌱 Currently learning Laravel and Vue.js.  
 💬 Don't hesitate to ask me about IT security-related topics.  
 ⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest Content Management Systems (CMS) in 2018.  
 📫 Feel free to contact me via email for any inquiries or discussions.  
