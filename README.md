@@ -32,12 +32,14 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)](#)
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black&style=flat)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)](#)
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)](#)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)](#)
 
 ### Backend
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=flat)](#)
 [![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?logo=symfony&logoColor=white&style=flat)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel?style=flat)](#)
 [![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=flat)](#)
 [![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=flat)](#)
