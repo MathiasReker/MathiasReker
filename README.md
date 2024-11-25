@@ -41,6 +41,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 [![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?logo=symfony&logoColor=white&style=flat)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel?style=flat)](#)
 [![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white&style=flat)](#)
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=&style=flat)](#)
 [![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=flat)](#)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?logo=Hibernate&logoColor=white&style=flat)](#)
