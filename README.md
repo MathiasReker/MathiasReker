@@ -87,6 +87,7 @@ Thank you for visiting my profile. Feel free to explore my projects and reach ou
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=Bitbucket&logoColor=white&style=flat)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white&style=flat)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=flat)](#)
+[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white&style=flat)](#)
 [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&style=flat)](#)
 
