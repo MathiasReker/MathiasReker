@@ -1,19 +1,17 @@
-# Greetings! 👋🏻
+# Hi! 👋🏻
 
-Greetings and welcome to my GitHub profile! I'm Mathias, a full-stack web developer with extensive experience in PHP (
-Symfony/Laravel), NodeJS (Express), Java (Spring), various template engines, frontend frameworks such as Vue.js,
-Svelte/SvelteKit,
-DevSecOps, and IT security.
+Hi, I'm Mathias – a senior full-stack developer with a wealth of experience in PHP (Symfony/Laravel), Node.js, a variety
+of template engines, and modern frontend frameworks like Vue.js, Svelte/SvelteKit, and React. I also specialize in
+DevSecOps and IT security.
 
-I'm passionate about crafting high-quality, scalable software solutions that adhere to best practices. With a keen eye
-for detail and a dedication to clean code, I strive to deliver maintainable systems that exceed expectations.
+I’m passionate about building high-quality, scalable software that follows best practices. With a sharp focus on detail
+and a commitment to clean, maintainable code, I aim to create solutions that not only meet but exceed expectations.
 
-As a committed member of the open-source community, I believe in the power of collaboration and continuous learning. I'm
-always eager to connect with fellow developers to exchange ideas, tackle challenges, and push the boundaries of what's
-possible.
+As an active member of the open-source community, I truly believe in the power of collaboration and continuous learning.
+I’m always excited to connect with fellow developers to exchange ideas, solve challenges, and explore new possibilities.
 
-Thank you for visiting my profile. Feel free to explore my projects and reach out to me if you have any questions or if
-you're interested in collaborating on a project.
+Thanks for stopping by my profile! Feel free to explore my projects, and don’t hesitate to reach out if you have any
+questions or are interested in collaborating on a project.
 
 ## 💫 About Me
 
@@ -22,9 +20,8 @@ you're interested in collaborating on a project.
 ⚡ An interesting fact about my experience includes being recognized as a top contributor to one of the world's largest
 Content Management Systems (CMS) in 2018.  
 📫 Feel free to contact me via email for any inquiries or discussions.  
-💻 Prefer **NixOS** due to its declarative configuration, atomic upgrades and rollbacks, and functional package
-management.  
-🐚 Prefer using the **Fish shell** due to its intuitive and user-friendly CLI.  
+💻 Prefer working on **NixOS** or **Ubuntu**.  
+🐚 Prefer using **bash** shell.  
 🏡 Have a strong passion for automating tasks and particularly enjoy leveraging Home Assistant to streamline and enhance
 various aspects of my daily life.  
 📖 Currently reading "The Pragmatic Programmer" by David Thomas and Andrew Hunt.
@@ -37,8 +34,7 @@ various aspects of my daily life.
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white&style=flat)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Shell Scripting](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white&style=flat)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -55,7 +51,6 @@ various aspects of my daily life.
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
@@ -93,19 +88,9 @@ various aspects of my daily life.
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)](#)
 [![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&style=flat&logoColor=fff&style=flat)](#)
 
-### 🎨 Design
+### 🎨 Design Tools
 
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)](#)
-
-### 📦 Package Managers
-
-[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)
-[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
-[![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#)
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
-[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
-[![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=flat)](#)
 
 ### 🔖 Version Control
 
