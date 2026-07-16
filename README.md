@@ -2,7 +2,7 @@
 
 Hi, I'm Mathias – a Senior Full Stack Developer with extensive experience in PHP (Symfony/Laravel), Node.js, Vue.js, Svelte/SvelteKit, React, and TypeScript. I also have a strong background in DevSecOps, IT security, system integration, and cloud infrastructure.
 
-I’m passionate about building high-quality, scalable software that follows sound engineering principles. I care deeply about clean, type-safe, maintainable code and enjoy working across the entire stack – from backend architecture and APIs to frontend applications, infrastructure, and deployment pipelines.
+I’m passionate about building high-quality, scalable software. I care deeply about clean, type-safe, maintainable code and enjoy working across the entire stack – from backend architecture and APIs to frontend applications, infrastructure, and deployment pipelines.
 
 In recent years, I have also focused increasingly on AI integration and AI-powered product development. I enjoy exploring how LLMs, AI agents, automation, and emerging technologies can be applied to build practical, useful, and maintainable software solutions.
 
