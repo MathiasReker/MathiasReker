@@ -10,15 +10,15 @@ As an active member of the open-source community, I believe in the power of coll
 
 ## 💫 About Me
 
-🌱 Currently exploring AI integration and continuously sharpening my skills across the stack.
+🌱 Currently exploring AI integration and continuously sharpening my skills across the stack.  
 💬 Don't hesitate to ask me about IT security-related topics.  
-⚡ In 2018, I was recognized as a Top Contributor to PrestaShop, one of the world's largest open-source e-commerce platforms.
-📫 Feel free to reach out via email for inquiries, discussions, or collaboration.
-💻 Prefer working on NixOS or Ubuntu.
-🐚 Prefer using Bash.
-🏡 Passionate about smart home automation, network architecture, hardware integration, and Home Assistant.
-⚙️ Enjoy automating repetitive tasks and building systems that make everyday life more efficient.
-📖 Always learning, exploring new technologies, and looking for better ways to build reliable software.
+⚡ In 2018, I was recognized as a Top Contributor to PrestaShop, one of the world's largest open-source e-commerce platforms.  
+📫 Feel free to reach out via email for inquiries, discussions, or collaboration.  
+💻 Prefer working on NixOS or Ubuntu.  
+🐚 Prefer using Bash.  
+🏡 Passionate about smart home automation, network architecture, hardware integration, and Home Assistant.   
+⚙️ Enjoy automating repetitive tasks and building systems that make everyday life more efficient.  
+📖 Always learning, exploring new technologies, and looking for better ways to build reliable software.  
 
 ## 🔋 Tech Stack
 
