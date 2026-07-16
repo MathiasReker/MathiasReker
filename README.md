@@ -39,7 +39,6 @@ As an active member of the open-source community, I believe in the power of coll
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai\&logoColor=white)](#)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini\&logoColor=white)](#)
-[![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic\&logoColor=white)](#)
 [![fal.ai](https://img.shields.io/badge/fal.ai-000000?logoColor=white)](#)
 [![RAG](https://img.shields.io/badge/RAG-412991?logoColor=white)](#)
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?logoColor=white)](#)
