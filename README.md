@@ -172,15 +172,9 @@ As an active member of the open-source community, I believe in the power of coll
 [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt\&logoColor=white)](#)
 [![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?logo=zigbee\&logoColor=white)](#)
 
-
-
 ## 📊GitHub Stats
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MathiasReker&theme=dark&hide_border=true)](#)
-
-## 🏆GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MathiasReker&theme=onedark&no-bg=true&no-frame=true&column=-1)](#)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MathiasReker&color=0&icon=0)](https://visitcount.itsvg.in/analytics/MathiasReker)
