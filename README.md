@@ -164,7 +164,6 @@ As an active member of the open-source community, I believe in the power of coll
 
 ### 🌐 CMS, E-commerce & Platforms
 
-[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify\&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress\&logoColor=white)](#)
 [![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal\&logoColor=white)](#)
 [![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop\&logoColor=fff)](#)
